@@ -22,4 +22,6 @@ A short hands on training workshop introducing machine learning for imaging. In 
 * Application to 3D imaging
 * Interactive examples:  microscopy imaging of kidneys, imaging salmonella in cells
 
+<b>Note:</b> Each image example has its own folder directory in <em>MLWorkshopDatasets</em>. Within the directory for an example there is a subfolder named <em>ExampleSegmentation</em> which contains two images: <em>Classified Image.png</em> which is an example segmentation for the image; and <em>TrainingRegionsSelected.png</em> which shows the regions used for training to obtain the example segmentation.
+
 Trainable WEKA is available in recent versions of [Fiji](https://imagej.net/Fiji), which is free to [download](https://imagej.net/Fiji.html#Downloads).
