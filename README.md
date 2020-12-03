@@ -22,4 +22,4 @@ A short hands on training workshop introducing machine learning for imaging. In 
 * Application to 3D imaging
 * Interactive examples:  microscopy imaging of kidneys, imaging salmonella in cells
 
-Trainable WEKA is available in recent version of [Fiji](https://imagej.net/Fiji), which is free to [download](https://imagej.net/Fiji.html#Downloads).
+Trainable WEKA is available in recent versions of [Fiji](https://imagej.net/Fiji), which is free to [download](https://imagej.net/Fiji.html#Downloads).
